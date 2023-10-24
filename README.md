@@ -18,7 +18,8 @@ This is a simple command-line ATM machine simulator implemented in JavaScript us
   
    ```bash
    node index.js
-5. You will be prompted to enter a PIN code. The simulator uses randomly generated user data, and you can enter PIN codes from 1000 to 1004 to simulate different users.
+5. You will be prompted to enter a PIN code. The simulator uses randomly generated user data, and you can enter PIN codes from 1000 to 1004 to simulate different users.@faker-js/faker
+
 6. After entering the PIN code, you can choose from various ATM functions, including withdrawals, balance checks, deposits, and exiting the simulator.
 7. The simulator provides feedback and simulates the selected ATM function. You can continue to perform ATM transactions by re-running the program.
 
